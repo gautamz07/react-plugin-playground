@@ -13,6 +13,11 @@
   }
 }
 
+.ReactModal__Content {
+  max-width: 50vw;
+  max-height: 50vh;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

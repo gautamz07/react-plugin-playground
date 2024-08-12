@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+// import MyModal from './Bug1'
+import MyModal from './MyModal'
 
 function App() {
   return (
@@ -17,6 +19,7 @@ function App() {
         >
           Learn React
         </a>
+        <MyModal />
       </header>
     </div>
   );
